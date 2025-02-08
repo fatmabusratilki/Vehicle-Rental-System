@@ -1,6 +1,5 @@
 import datetime
 
-
 class VehicleRent:
     def __init__(self, stock): 
     
