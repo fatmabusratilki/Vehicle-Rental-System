@@ -1,3 +1,9 @@
+"""
+Author: Fatma Büşra Tilki
+Year: 2022 
+Project Name: Vehicle Rental System Simulation
+"""
+
 from random import choice
 from rent_vehicle import CarRent, BikeRent, Customer
 
